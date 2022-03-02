@@ -4000,7 +4000,7 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 function initMap() {
 
     var map = new google.maps.Map(document.getElementById('ieatmaps'), {
-      center: {lat: 34.0937458, lng: -118.3614978},
+      center: {lat: 49.496130, lng: 10.803740},
       zoom: 12,
       styles: [
     {
