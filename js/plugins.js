@@ -4172,7 +4172,7 @@ function initMap() {
     });
 
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(34.0937458, -118.3614978)
+        position: new google.maps.LatLng(349.496130, 10.803740)
         , title: 'ASL'
         , map : map
 
